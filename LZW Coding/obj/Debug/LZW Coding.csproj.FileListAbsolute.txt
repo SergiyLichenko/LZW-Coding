@@ -1,0 +1,16 @@
+c:\users\the vfx style\documents\visual studio 2015\Projects\LZW Coding\LZW Coding\bin\Debug\LZW Coding.exe
+c:\users\the vfx style\documents\visual studio 2015\Projects\LZW Coding\LZW Coding\bin\Debug\LZW Coding.pdb
+c:\users\the vfx style\documents\visual studio 2015\Projects\LZW Coding\LZW Coding\obj\Debug\LZW Coding.csprojResolveAssemblyReference.cache
+c:\users\the vfx style\documents\visual studio 2015\Projects\LZW Coding\LZW Coding\obj\Debug\LZW_Coding.MainWindow.resources
+c:\users\the vfx style\documents\visual studio 2015\Projects\LZW Coding\LZW Coding\obj\Debug\LZW_Coding.Properties.Resources.resources
+c:\users\the vfx style\documents\visual studio 2015\Projects\LZW Coding\LZW Coding\obj\Debug\LZW Coding.csproj.GenerateResource.Cache
+c:\users\the vfx style\documents\visual studio 2015\Projects\LZW Coding\LZW Coding\obj\Debug\LZW Coding.exe
+c:\users\the vfx style\documents\visual studio 2015\Projects\LZW Coding\LZW Coding\obj\Debug\LZW Coding.pdb
+I:\Projects\LZW Coding\LZW Coding\obj\Debug\LZW Coding.exe
+I:\Projects\LZW Coding\LZW Coding\obj\Debug\LZW Coding.pdb
+I:\Projects\LZW Coding\LZW Coding\bin\Debug\LZW Coding.exe
+I:\Projects\LZW Coding\LZW Coding\bin\Debug\LZW Coding.pdb
+I:\Projects\LZW Coding\LZW Coding\obj\Debug\LZW Coding.csprojResolveAssemblyReference.cache
+I:\Projects\LZW Coding\LZW Coding\obj\Debug\LZW_Coding.MainWindow.resources
+I:\Projects\LZW Coding\LZW Coding\obj\Debug\LZW_Coding.Properties.Resources.resources
+I:\Projects\LZW Coding\LZW Coding\obj\Debug\LZW Coding.csproj.GenerateResource.Cache
